@@ -1,8 +1,6 @@
   ### Olá 👋
 
-- 🙋‍♂️ Sou o Vinícius! 
-- 💡 Buscando conhecer sobre tecnologia 
-- 👨‍💻 Pretendo atuar na área de desenvolvimento(back-end)
+- 🙋‍♂️ Sou o Bernard! 
 
 <div align="center">
   <a href="https://github.com/BernardCarvalho">
@@ -25,5 +23,23 @@
 
 <div>
    <a href = "mailto:bernard.carvalho@estudante.ifto.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href = "https://www.linkedin.com/in/vin%C3%ADcius-moura-8899301b6/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+  ---
+
+### :hammer_and_wrench: Experiência com Linguagens:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML 5" alt="HTML 5" width="40" height="40"/>&nbsp;
+</div>
+
+### :gear: Experiência com Plataformas:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div>
+
